@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:3a3a3a&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=fff&fontAlignY=40&fontSize=45&animation=fadeIn)
 ## 👋 안녕하세요!
 
 저는 **[이름]**입니다. 주로 **[주요 기술 스택]**을 활용하여 **[관심 분야]**에 대한 프로젝트를 진행하고 있습니다.
