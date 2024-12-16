@@ -1,4 +1,5 @@
-# 🌟 안녕하세요, 저는 [사용자 이름]입니다!
+# 🌟 안녕하세요, 저는 강선민 입니다!
+## 리드미 수정중..
 
 [![GitHub Followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username) [![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)](https://twitter.com/username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 
