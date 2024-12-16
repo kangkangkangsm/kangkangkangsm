@@ -19,14 +19,10 @@
 
 저는 [프로젝트 이름]이라는 오픈 소스 프로젝트를 진행하며, 이 프로젝트는 [간단한 프로젝트 설명]을 목표로 하고 있습니다. 😊
 
-## 🤝 기여 및 소통
-- 새로운 아이디어나 기능이 있다면 자유롭게 기여해주세요!
-- 이슈나 질문은 언제든지 **[GitHub Issues](https://github.com/username/projectname/issues)**에 남겨주세요.
-
 ## 🌍 저와 연결하기
 - **Twitter**: [@username](https://twitter.com/username)
 - **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [username](https://github.com/username)
+- **GitHub**: [kangkangkangsm]([https://github.com/kangkangkangsm](https://github.com/kangkangkangsm/))
 
 ⭐️ 이 프로필이 마음에 드셨다면, 프로젝트에 별을 주세요! 저에게 큰 힘이 됩니다! 😊
 
