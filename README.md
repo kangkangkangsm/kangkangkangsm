@@ -22,7 +22,7 @@
 ## 🌍 저와 연결하기
 - **Twitter**: [@username](https://twitter.com/username)
 - **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [kangkangkangsm]([https://github.com/kangkangkangsm](https://github.com/kangkangkangsm/))
+- **GitHub**: [kangkangkangsm]([https://github.com/kangkangkangsm])
 
 ⭐️ 이 프로필이 마음에 드셨다면, 프로젝트에 별을 주세요! 저에게 큰 힘이 됩니다! 😊
 
