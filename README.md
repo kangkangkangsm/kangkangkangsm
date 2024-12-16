@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 ### 백엔드
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) logo=express&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 
 ### 데이터베이스
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
