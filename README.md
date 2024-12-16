@@ -1,17 +1,12 @@
 # 🌟 안녕하세요, 저는 강선민 입니다!
-## 리드미 수정중..
 
-[![GitHub Followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username) [![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)](https://twitter.com/username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-
-안녕하세요! 👋 저는 **프론트엔드/백엔드 개발자**로서 다양한 기술 스택과 도구들을 활용하여 사용자에게 가치 있는 소프트웨어를 만드는 것을 좋아합니다. 여러분과 함께 배우고 성장하며 더 나은 코드를 만들어 나가고 싶습니다. 🌱
+안녕하세요! 👋 저는 **백엔드 개발자**로서 다양한 기술 스택과 도구들을 활용하여 사용자에게 가치 있는 소프트웨어를 만드는 것을 좋아합니다. 여러분과 함께 배우고 성장하며 더 나은 코드를 만들어 나가고 싶습니다. 🌱
 
 ## 🚀 저에 대해
-- 🔭 현재는 **[현재 프로젝트 이름 또는 주제]** 프로젝트를 진행 중입니다.
-- 🌱 최근에는 **[배우고 있는 기술 또는 공부하는 주제]**에 대해 집중적으로 배우고 있어요.
-- 💬 개발, 기술 또는 프로젝트 관련해서 궁금한 점이 있으시면 언제든지 연락주세요.
-- 📫 저에게 연락하려면: **[이메일 주소]**로 메일을 보내주세요.
-- ⚡ 재미있는 사실: 제가 만드는 프로그램은 종종 제 반려견에게도 테스트해봅니다! 🐶
-
+- 🔭 현재는 2번째 팀 프로젝트인 **[DailySync]** 프로젝트를 진행 중입니다.
+- 🌱 최근에는 **[ Java ]**에 대해 집중적으로 배우고 있어요.
+- 💬 프로젝트 관련해서 궁금한 점이 있으시면 언제든지 연락주세요.
+- 📫 저에게 연락하려면:  akfnz123@naver.com 로 메일을 보내주세요.
 ## 🛠 기술 스택
 - **프론트엔드**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **백엔드**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
