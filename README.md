@@ -8,7 +8,7 @@
 - 💬 프로젝트 관련해서 궁금한 점이 있으시면 언제든지 연락주세요.
 - 📫 저에게 연락하려면:  akfnz123@naver.com 로 메일을 보내주세요.
 ## 🛠 기술 스택
-### 프론트엔드
+# 프론트엔드
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 ### 백엔드
