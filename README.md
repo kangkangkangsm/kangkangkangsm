@@ -15,10 +15,4 @@
 
 ## 📸 프로젝트 하이라이트
 
-![프로젝트 이미지](https://via.placeholder.com/800x400?text=Project+Screenshot+Placeholder)
-
-저는 [프로젝트 이름]이라는 오픈 소스 프로젝트를 진행하며, 이 프로젝트는 [간단한 프로젝트 설명]을 목표로 하고 있습니다. 😊
-
 _감사합니다! 오늘도 좋은 하루 보내세요! 🌟_
-
-![하단 이미지](https://via.placeholder.com/1200x300?text=Thank+You+for+visiting!)
