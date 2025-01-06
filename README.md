@@ -62,7 +62,7 @@
 
 ---
 
-## ✨ **깃허브 **
+## ✨ 깃허브
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangkangkangsm&layout=compact&theme=radical)
 
 ---
