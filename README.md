@@ -6,7 +6,6 @@
 ---
 
 ## 🧑‍💻 **About Me**
-- 💬 궁금한 점이나 협업 문의는 언제든 환영합니다!  
 - 📫 **Contact**: [akfnz123@naver.com](mailto:akfnz123@naver.com)
 - 🌍 **GitHub**: [My GitHub Profile](https://github.com/kangkangkangsm)
 
@@ -63,7 +62,7 @@
 
 ---
 
-## ✨ **깃허브 통계**
+## ✨ **깃허브 **
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kangkangkangsm&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangkangkangsm&layout=compact&theme=radical)
 
