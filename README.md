@@ -14,7 +14,7 @@
 
 ## 👨‍👨‍👧‍👧 팀 프로젝트
 1. 현이의 가방끈(2024.09.12 ~ 2024.10.11) ?? 
-2. DailySync(2024.12.02 ~ 2024.12.16 ) [https](https://github.com/kangkangkangsm/DailySyncTeam)
+2. DailySync(2024.12.02 ~ 2024.12.16 ) [DailySync](https://github.com/kangkangkangsm/DailySyncTeam)
 ## 🚀자격증
 정보처리산업기사(2024.09.10)
 SQLD(2024.09.20)
