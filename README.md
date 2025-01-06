@@ -63,7 +63,6 @@
 ---
 
 ## ✨ **깃허브 **
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kangkangkangsm&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangkangkangsm&layout=compact&theme=radical)
 
 ---
