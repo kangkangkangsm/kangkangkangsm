@@ -40,7 +40,7 @@
 
 ## 👨‍👩‍👧‍👦 **Team Projects**
 
-### 🔹 [DailySync](https://github.com/kangkangkangsm/DailySyncTeam) *(2024.12.02 ~ 2024.12.16)*  팀장
+### 🔹 [DailySync](https://github.com/kangkangkangsm/DailySyncTeam) *(2024.11.22 ~ 2024.12.16)*  팀장
 💡 **간단 설명**: 'DailySync'는 스케줄 관리, 식단 관리, To-Do 리스트, 가계부 관리 등을 하나의 웹/앱에서 간편하게 제공하는 올인원 시스템입니다.  
 복잡한 기능을 줄이고 사용자 맞춤형 간소화된 서비스를 제공하기 위해 제작되었습니다.
 
