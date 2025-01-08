@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 **About Me**
-- 📫 **Contact**: [akfnz123@naver.com](mailto:akfnz123@naver.com)
+- 📫 **email**: [akfnz123@naver.com](mailto:akfnz123@naver.com)
 - 🌍 **GitHub**: [My GitHub Profile](https://github.com/kangkangkangsm)
 
 ---
